@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecordFinancialMarketResearchViewpointUsage;
+
+import javax.validation.Valid;
+  
+/**
+ * CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecord
+ */
+public class CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecord   {
+  private CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecordFinancialMarketResearchViewpointUsage financialMarketResearchViewpointUsage = null;
+
+
+  /**
+   * Get financialMarketResearchViewpointUsage
+   * @return financialMarketResearchViewpointUsage
+  **/
+
+  public CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecordFinancialMarketResearchViewpointUsage getFinancialMarketResearchViewpointUsage() {
+    return financialMarketResearchViewpointUsage;
+  }
+
+  public void setFinancialMarketResearchViewpointUsage(CRFinancialMarketResearchDirectoryEntryRequestInputModelFinancialMarketResearchDirectoryEntryInstanceRecordFinancialMarketResearchViewpointUsage financialMarketResearchViewpointUsage) {
+    this.financialMarketResearchViewpointUsage = financialMarketResearchViewpointUsage;
+  }
+
+
+}
+

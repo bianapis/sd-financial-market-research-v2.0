@@ -1,0 +1,15 @@
+{
+  "financialMarketResearchDirectoryEntryInstanceReference" : "FMRDEIR716578",
+  "financialMarketResearchDirectoryEntryInstanceStatus" : "financialMarketResearchDirectoryEntryInstanceStatus",
+  "financialMarketResearchDirectoryEntryRegisterActionReference" : "FMRDERAR739709",
+  "financialMarketResearchDirectoryEntryRegisterActionRecord" : {},
+  "financialMarketResearchDirectoryEntryInstanceRecord" : {
+    "financialMarketResearchViewpointDescription" : "financialMarketResearchViewpointDescription",
+    "financialMarketResearchViewpointType" : "financialMarketResearchViewpointType",
+    "referencedFinancialMarketResearchRecord" : {
+      "financialMarketResearchReportTypeDefinition" : "financialMarketResearchReportTypeDefinition",
+      "financialMarketResearchReportVersionPeriod" : "financialMarketResearchReportVersionPeriod",
+      "financialMarketResearchReport" : {}
+    }
+  }
+}

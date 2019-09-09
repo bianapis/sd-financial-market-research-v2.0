@@ -1,0 +1,13 @@
+{
+  "financialMarketResearchDirectoryEntryUpdateActionTaskReference" : "FMRDEUATR704847",
+  "updateResponseRecord" : {},
+  "financialMarketResearchDirectoryEntryUpdateActionTaskRecord" : {},
+  "financialMarketResearchDirectoryEntryInstanceRecord" : {
+    "financialMarketResearchViewpointDescription" : "financialMarketResearchViewpointDescription",
+    "financialMarketResearchViewpointType" : "financialMarketResearchViewpointType",
+    "referencedFinancialMarketResearchRecord" : {
+      "financialMarketResearchReportTypeReference" : "741491",
+      "financialMarketResearchReportVersionPeriod" : "financialMarketResearchReportVersionPeriod"
+    }
+  }
+}

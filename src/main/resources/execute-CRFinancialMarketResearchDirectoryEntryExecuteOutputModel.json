@@ -1,0 +1,18 @@
+{
+  "financialMarketResearchDirectoryEntryExecuteActionTaskReference" : "FMRDEEATR799006",
+  "executeRecordReference" : "ERR746178",
+  "executeResponseRecord" : {},
+  "financialMarketResearchDirectoryEntryExecuteActionTaskRecord" : {},
+  "financialMarketResearchDirectoryEntryInstanceRecord" : {
+    "financialMarketResearchViewpointDescription" : "financialMarketResearchViewpointDescription",
+    "financialMarketResearchViewpointUsage" : {
+      "employeeBusinessUnitReference" : "736705",
+      "financialMarketResearchReportRequest" : "financialMarketResearchReportRequest"
+    },
+    "financialMarketResearchViewpointType" : "financialMarketResearchViewpointType",
+    "referencedFinancialMarketResearchRecord" : {
+      "financialMarketResearchReportTypeDefinition" : "financialMarketResearchReportTypeDefinition",
+      "financialMarketResearchReportVersionPeriod" : "financialMarketResearchReportVersionPeriod"
+    }
+  }
+}

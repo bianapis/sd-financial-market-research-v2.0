@@ -1,0 +1,29 @@
+{
+  "financialMarketResearchDirectoryEntryRetrieveActionTaskRecord" : {},
+  "financialMarketResearchDirectoryEntryInstanceReportRecord" : {
+    "financialMarketResearchDirectoryEntryInstanceReportType" : "financialMarketResearchDirectoryEntryInstanceReportType",
+    "financialMarketResearchDirectoryEntryInstanceReport" : {},
+    "financialMarketResearchDirectoryEntryInstanceReportData" : "financialMarketResearchDirectoryEntryInstanceReportData"
+  },
+  "financialMarketResearchDirectoryEntryRetrieveActionResponse" : "financialMarketResearchDirectoryEntryRetrieveActionResponse",
+  "financialMarketResearchDirectoryEntryInstanceAnalysis" : {
+    "financialMarketResearchDirectoryEntryInstanceAnalysisReportType" : "financialMarketResearchDirectoryEntryInstanceAnalysisReportType",
+    "financialMarketResearchDirectoryEntryInstanceAnalysisReport" : {},
+    "financialMarketResearchDirectoryEntryInstanceAnalysisData" : "financialMarketResearchDirectoryEntryInstanceAnalysisData"
+  },
+  "financialMarketResearchDirectoryEntryRetrieveActionTaskReference" : "FMRDERATR789350",
+  "financialMarketResearchDirectoryEntryInstanceRecord" : {
+    "financialMarketResearchViewpointDescription" : "financialMarketResearchViewpointDescription",
+    "financialMarketResearchViewpointUsage" : {
+      "employeeBusinessUnitReference" : "705442",
+      "financialMarketResearchReportRequest" : "financialMarketResearchReportRequest"
+    },
+    "financialMarketResearchViewpointType" : "financialMarketResearchViewpointType",
+    "referencedFinancialMarketResearchRecord" : {
+      "financialMarketResearchReportTypeReference" : "751680",
+      "financialMarketResearchReportTypeDefinition" : "financialMarketResearchReportTypeDefinition",
+      "financialMarketResearchReportVersionPeriod" : "financialMarketResearchReportVersionPeriod",
+      "financialMarketResearchReport" : {}
+    }
+  }
+}
